@@ -4,7 +4,18 @@
 
 # MindWhisper AI
 
+
+
 ### Free Cluely Alternative | Final Round AI Alternative | Free Meeting Assistant AI
+
+
+---
+
+> ⚠️ **Important Notice**  
+> If you detect any issue, want a feature improvement, or have a new feature request, please **[raise an issue](../../issues/new)**.  
+> I kindly request you to **⭐ star this repository** once you’re done. Thank you for your support! 🙏
+
+---
 
 **The best free alternative to Cluely and Final Round AI. A stealth desktop assistant that listens, transcribes, and delivers instant AI-powered responses in real-time—without anyone knowing.**
 
